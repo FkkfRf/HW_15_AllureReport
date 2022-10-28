@@ -2,8 +2,8 @@
 # from https://github.com/selenide/selenide/blob/master/.gitignore
 
 ../HW_15_Allure1/build
-!.idea
-.idea/*
+!../../../.idea
+.idea/vcs.xml
 !/.idea/icon.svg
 out
 *.ipr
