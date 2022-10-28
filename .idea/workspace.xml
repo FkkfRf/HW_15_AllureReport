@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53e39e2d-a790-4b0c-8843-00b5e4fbe646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AnnotatedStepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/LambdaStepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SelenideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WebSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exampleTest/LabelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/LabelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="53e39e2d-a790-4b0c-8843-00b5e4fbe646" name="Changes" comment="delete from resources" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +225,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666953283785</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All tests in Project for Allure">
+      <created>1666962583895</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666962583895</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete from resources">
+      <created>1666962714821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666962714821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +255,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Proget for Allure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Proget for Allure" />
+    <MESSAGE value="All tests in Project for Allure" />
+    <MESSAGE value="delete from resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete from resources" />
   </component>
 </project>
